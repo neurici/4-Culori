@@ -43,7 +43,7 @@ Proiectul include logica jocului, meniuri interactive, efecte audio și suport p
 ## ▶️ Cum rulezi proiectul
 1. Clonează repository-ul:
    ```bash
-   git clone https://github.com/username/4-culori.git
+   git clone https://github.com/neurici/4-culori.git
    ```
 2. Intră în folderul proiectului:
    ```bash
