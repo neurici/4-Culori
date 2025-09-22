@@ -1,6 +1,6 @@
 # 📜 License
 
-## English (Official)
+## English
 ```text
 MIT License
 
@@ -27,7 +27,7 @@ SOFTWARE.
 
 ---
 
-## Română (Traducere – doar pentru referință)
+## Română
 ```text
 Licența MIT
 
