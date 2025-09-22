@@ -1,4 +1,4 @@
-# 📜 License
+# 📜 License / Licență
 
 ## English
 ```text
