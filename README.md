@@ -13,7 +13,7 @@ Proiectul include logica jocului, meniuri interactive, efecte audio și suport p
 - Mod **fullscreen** și verificare orientare pe mobil
 - Panouri dedicate pentru:
   - Selectare jucători
-  - Tutorial
+  - Explicații funcții cărți speciale
   - Alegere culoare
   - Final de joc
   - Credite
