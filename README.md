@@ -6,7 +6,7 @@ Un joc clasic de cărți, adaptat pentru browser, construit cu **HTML5 Canvas** 
 Proiectul include logica jocului, meniuri interactive, efecte audio și suport pentru mai mulți jucători.  
 
 ## 🚀 Funcționalități
-- Joc de tip **UNO/4 Colors** direct în browser
+- Joc de tip **UNO** direct în browser
 - Suport pentru **2–4 jucători**
 - Interfață grafică animată (Canvas + CreateJS)
 - Sunete integrate cu [Howler.js](https://howlerjs.com/)
