@@ -1,4 +1,6 @@
-# 🎮 4 CULORI
+# 🎮 4 CULORI sau UNO cu buget redus 🙂
+
+
 
 Un joc clasic de cărți, adaptat pentru browser, construit cu **HTML5 Canvas** și **JavaScript**.  
 Proiectul include logica jocului, meniuri interactive, efecte audio și suport pentru mai mulți jucători.  
