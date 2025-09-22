@@ -72,4 +72,4 @@ Poți folosi, modifica și distribui liber codul, cu menționarea autorului.
 
 ---
 
-🎨 *Creat cu pasiune pentru jocuri clasice, direct în browser.*
+🎨 *Creat cu pasiune pentru jocuri, direct în browser.*
