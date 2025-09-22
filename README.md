@@ -43,7 +43,7 @@ Proiectul include logica jocului, meniuri interactive, efecte audio și suport p
 ## ▶️ Cum rulezi proiectul
 1. Clonează repository-ul:
    ```bash
-   git clone https://github.com/neurici/4-culori.git
+   git clone https://github.com/username/4-culori.git
 
     Intră în folderul proiectului:
 
@@ -83,3 +83,4 @@ Acest proiect este publicat sub licența MIT.
 Poți folosi, modifica și distribui liber codul, cu menționarea autorului.
 
 🎨 Creat cu pasiune pentru jocuri clasice, direct în browser.
+
