@@ -26,61 +26,56 @@ Proiectul include logica jocului, meniuri interactive, efecte audio și suport p
 - CSS custom pentru interfață și fullscreen
 
 ## 📂 Structura proiectului
-
+```
 /
-├── index.html # Punctul de start al jocului
-├── css/ # Stiluri (reset, main, fullscreen, orientare)
-├── js/ # Logica jocului și librăriile necesare
-│ ├── CMain.js # Punctul central al aplicației
-│ ├── CGame.js # Logica jocului
-│ ├── CMenu.js # Meniu principal
-│ ├── CCard.js # Obiectele de tip carte
-│ ├── CInterface.js # Interfața grafică
-│ └── ... (alte module)
+├── index.html           # Punctul de start al jocului
+├── css/                 # Stiluri (reset, main, fullscreen, orientare)
+├── js/                  # Logica jocului și librăriile necesare
+│   ├── CMain.js         # Punctul central al aplicației
+│   ├── CGame.js         # Logica jocului
+│   ├── CMenu.js         # Meniu principal
+│   ├── CCard.js         # Obiectele de tip carte
+│   ├── CInterface.js    # Interfața grafică
+│   └── ... (alte module)
 └── favicon.ico
-
+```
 
 ## ▶️ Cum rulezi proiectul
 1. Clonează repository-ul:
    ```bash
    git clone https://github.com/username/4-culori.git
+   ```
+2. Intră în folderul proiectului:
+   ```bash
+   cd 4-culori
+   ```
+3. Rulează un server local (exemple):
+   ```bash
+   # Python 3
+   python -m http.server 8080
 
-    Intră în folderul proiectului:
+   # Node.js (http-server)
+   npx http-server .
+   ```
+4. Accesează în browser:
+   ```
+   http://localhost:8080
+   ```
 
-cd 4-culori
+## 📱 Suport pentru mobil
+- Jocul detectează orientarea dispozitivului și afișează un mesaj dacă nu este în modul **landscape**.
+- Compatibil cu **iOS și Android**.
 
-Rulează un server local (exemple):
-
-# Python 3
-python -m http.server 8080
-
-# Node.js (http-server)
-npx http-server .
-
-Accesează în browser:
-
-    http://localhost:8080
-
-📱 Suport pentru mobil
-
-    Jocul detectează orientarea dispozitivului și afișează un mesaj dacă nu este în modul landscape.
-
-    Compatibil cu iOS și Android.
-
-👨‍💻 Contribuții
-
+## 👨‍💻 Contribuții
 Contribuțiile sunt binevenite! Poți adăuga:
+- Moduri de joc noi
+- Multiplayer online
+- Îmbunătățiri grafice
 
-    Moduri de joc noi
-
-    Multiplayer online
-
-    Îmbunătățiri grafice
-
-📜 Licență
-
-Acest proiect este publicat sub licența MIT.
+## 📜 Licență
+Acest proiect este publicat sub licența **MIT**.  
 Poți folosi, modifica și distribui liber codul, cu menționarea autorului.
 
-🎨 Creat cu pasiune pentru jocuri clasice, direct în browser.
+---
 
+🎨 *Creat cu pasiune pentru jocuri clasice, direct în browser.*
