@@ -1,2 +1,85 @@
-# 4-Culori
-Jocul clasic „4 Culori” dezvoltat în HTML5 și JavaScript, cu suport desktop și mobil.
+# 🎮 4 CULORI
+
+Un joc clasic de cărți, adaptat pentru browser, construit cu **HTML5 Canvas** și **JavaScript**.  
+Proiectul include logica jocului, meniuri interactive, efecte audio și suport pentru mai mulți jucători.  
+
+## 🚀 Funcționalități
+- Joc de tip **UNO/4 Colors** direct în browser
+- Suport pentru **2–4 jucători**
+- Interfață grafică animată (Canvas + CreateJS)
+- Sunete integrate cu [Howler.js](https://howlerjs.com/)
+- Mod **fullscreen** și verificare orientare pe mobil
+- Panouri dedicate pentru:
+  - Selectare jucători
+  - Tutorial
+  - Alegere culoare
+  - Final de joc
+  - Credite
+- Compatibil cu **desktop și mobile**
+
+## 🛠️ Tehnologii folosite
+- **HTML5** & **Canvas API**
+- **JavaScript (ES5/ES6)**  
+- [jQuery 3.2.1](https://jquery.com/)  
+- [CreateJS](https://createjs.com/)  
+- [Howler.js](https://howlerjs.com/) – pentru audio
+- CSS custom pentru interfață și fullscreen
+
+## 📂 Structura proiectului
+
+/
+├── index.html # Punctul de start al jocului
+├── css/ # Stiluri (reset, main, fullscreen, orientare)
+├── js/ # Logica jocului și librăriile necesare
+│ ├── CMain.js # Punctul central al aplicației
+│ ├── CGame.js # Logica jocului
+│ ├── CMenu.js # Meniu principal
+│ ├── CCard.js # Obiectele de tip carte
+│ ├── CInterface.js # Interfața grafică
+│ └── ... (alte module)
+└── favicon.ico
+
+
+## ▶️ Cum rulezi proiectul
+1. Clonează repository-ul:
+   ```bash
+   git clone https://github.com/username/4-culori.git
+
+    Intră în folderul proiectului:
+
+cd 4-culori
+
+Rulează un server local (exemple):
+
+# Python 3
+python -m http.server 8080
+
+# Node.js (http-server)
+npx http-server .
+
+Accesează în browser:
+
+    http://localhost:8080
+
+📱 Suport pentru mobil
+
+    Jocul detectează orientarea dispozitivului și afișează un mesaj dacă nu este în modul landscape.
+
+    Compatibil cu iOS și Android.
+
+👨‍💻 Contribuții
+
+Contribuțiile sunt binevenite! Poți adăuga:
+
+    Moduri de joc noi
+
+    Multiplayer online
+
+    Îmbunătățiri grafice
+
+📜 Licență
+
+Acest proiect este publicat sub licența MIT.
+Poți folosi, modifica și distribui liber codul, cu menționarea autorului.
+
+🎨 Creat cu pasiune pentru jocuri clasice, direct în browser.
