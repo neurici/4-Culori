@@ -69,7 +69,7 @@ Proiectul include logica jocului, meniuri interactive, efecte audio și suport p
 - Compatibil cu **iOS și Android**
 
 ## 📜 Licență
-Acest proiect este publicat sub licența [**MIT**](LICENSE.md)
+Acest proiect este publicat sub licența [**MIT**](LICENSE.md).
 Poți folosi, modifica și distribui liber codul, cu menționarea **autorului**!
 
 ---
