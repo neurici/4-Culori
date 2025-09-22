@@ -66,12 +66,6 @@ Proiectul include logica jocului, meniuri interactive, efecte audio și suport p
 - Jocul detectează orientarea dispozitivului și afișează un mesaj dacă nu este în modul **landscape**.
 - Compatibil cu **iOS și Android**.
 
-## 👨‍💻 Contribuții
-Contribuțiile sunt binevenite! Poți adăuga:
-- Moduri de joc noi
-- Multiplayer online
-- Îmbunătățiri grafice
-
 ## 📜 Licență
 Acest proiect este publicat sub licența **MIT**.  
 Poți folosi, modifica și distribui liber codul, cu menționarea autorului.
