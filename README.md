@@ -70,6 +70,7 @@ Proiectul include logica jocului, meniuri interactive, efecte audio și suport p
 
 ## 📜 Licență
 Acest proiect este publicat sub licența [**MIT**](LICENSE.md).
+
 Poți folosi, modifica și distribui liber codul, cu menționarea **autorului**!
 
 ---
