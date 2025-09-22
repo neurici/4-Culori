@@ -17,7 +17,7 @@ Proiectul include logica jocului, meniuri interactive, efecte audio și suport p
   - Alegere culoare
   - Final de joc
   - Credite
-- Compatibil cu **desktop și mobile**
+- Compatibil cu **desktop și dispozitive mobile**
 
 ## 🛠️ Tehnologii folosite
 - **HTML5** & **Canvas API**
@@ -64,13 +64,13 @@ Proiectul include logica jocului, meniuri interactive, efecte audio și suport p
    http://localhost:8080
    ```
 
-## 📱 Suport pentru mobil
-- Jocul detectează orientarea dispozitivului și afișează un mesaj dacă nu este în modul **landscape**.
-- Compatibil cu **iOS și Android**.
+## 📱 Suport pentru dispozitive mobile
+- Jocul detectează orientarea dispozitivului și afișează un mesaj dacă nu este în modul **landscape**
+- Compatibil cu **iOS și Android**
 
 ## 📜 Licență
-Acest proiect este publicat sub licența [**MIT**](LICENSE.md).  
-Poți folosi, modifica și distribui liber codul, cu menționarea autorului.
+Acest proiect este publicat sub licența [**MIT**](LICENSE.md)
+Poți folosi, modifica și distribui liber codul, cu menționarea **autorului**!
 
 ---
 
